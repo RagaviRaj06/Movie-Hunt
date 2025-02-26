@@ -1,6 +1,8 @@
-# React + Vite
+# Movie Hunt
+Software’s Used: HTML, CSS, React, Bootstrap, API server & JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    Created Movie Hunt to explore top-rated, popular and upcoming movies, fetching data, review & rating from TMDb using an API key.
+
 
 Currently, two official plugins are available:
 
